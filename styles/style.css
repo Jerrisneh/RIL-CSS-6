@@ -3,15 +3,14 @@
     margin: 0;
     box-sizing: border-box;
 }
-body{
-    background-color: #1BA3B3;
-    height: 10%;
-}
+
 .background{
+    background-color: #1BA3B3;
     
     display: flex;
     justify-content: center;
     position: relative;
+    overflow: hidden;
 
     
 }
